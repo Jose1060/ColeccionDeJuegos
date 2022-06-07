@@ -14,6 +14,7 @@
 		B8C37DD5284EC3ED00DE13A3 /* ColeccionDeJuegos.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = B8C37DD3284EC3ED00DE13A3 /* ColeccionDeJuegos.xcdatamodeld */; };
 		B8C37DD7284EC3F000DE13A3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B8C37DD6284EC3F000DE13A3 /* Assets.xcassets */; };
 		B8C37DDA284EC3F000DE13A3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B8C37DD8284EC3F000DE13A3 /* LaunchScreen.storyboard */; };
+		B8C37DE2284EC92B00DE13A3 /* JuegosViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B8C37DE1284EC92B00DE13A3 /* JuegosViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		B8C37DD6284EC3F000DE13A3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B8C37DD9284EC3F000DE13A3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B8C37DDB284EC3F000DE13A3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B8C37DE1284EC92B00DE13A3 /* JuegosViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JuegosViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				B8C37DD8284EC3F000DE13A3 /* LaunchScreen.storyboard */,
 				B8C37DDB284EC3F000DE13A3 /* Info.plist */,
 				B8C37DD3284EC3ED00DE13A3 /* ColeccionDeJuegos.xcdatamodeld */,
+				B8C37DE1284EC92B00DE13A3 /* JuegosViewController.swift */,
 			);
 			path = ColeccionDeJuegos;
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B8C37DE2284EC92B00DE13A3 /* JuegosViewController.swift in Sources */,
 				B8C37DCF284EC3ED00DE13A3 /* ViewController.swift in Sources */,
 				B8C37DCB284EC3ED00DE13A3 /* AppDelegate.swift in Sources */,
 				B8C37DCD284EC3ED00DE13A3 /* SceneDelegate.swift in Sources */,
